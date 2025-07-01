@@ -3,7 +3,7 @@
 This project implements a deep learning-based hand gesture recognition system  
 
 ## 📊 Dataset  
-Source: LeapGestRecog Dataset on Kaggle  
+Source: LeapGestRecog Dataset on Kaggle[https://www.kaggle.com/datasets/gti-upm/leapgestrecog]  
 Classes: 10 unique hand gestures (labeled 0–9)  
 Total Images: 20000+ grayscale images (320x240 resolution)  
 
