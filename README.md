@@ -1,5 +1,5 @@
 # Prodigy Info Tech - Machine Learning Internship Task 04  
-# 🖐️ Hand Gesture Recognition using CNN  
+## 🖐️ Hand Gesture Recognition using CNN  
 This project implements a deep learning-based hand gesture recognition system  
 
 ## 📊 Dataset  
